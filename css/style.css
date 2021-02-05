@@ -20,6 +20,10 @@
   border: 2px solid white;
 }
 
+.col-2.hello {
+  height: 100%;
+}
+
 .col-6 {
   padding: 10px 10px 10px 10px;
 }
