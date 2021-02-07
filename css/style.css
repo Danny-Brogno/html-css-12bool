@@ -35,7 +35,7 @@
   font-weight: bold;
 }
 
-#hello1 {
+.hello1 {
   height: inherit;
   background-color: #f07f80;
   font-weight: bold;
